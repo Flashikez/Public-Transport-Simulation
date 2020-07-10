@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/diss3/HladacRieseni.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/simulation/Mc.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/gui/TabViewController.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/gui/replGUI/ReplViewController.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/managers/Okolie_Manager.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/objects/Linka.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/objects/Pool_Ludia_Zastavka.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/gui/variantaChooser/VariantaController.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/objects/Mikrobus.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/simulation/MyMessage.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/agents/Okolie_Agent.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/diss3/Riesenie.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/simulation/MySimulation.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/agents/Model_Agent.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/build.xml</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/managers/Model_Manager.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/objects/Config.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/continualAssistants/Nastup_v_cakani_varianta_B.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/managers/Doprava_Manager.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/gui/variantaChooser/VariantaTableItem.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/agents/Doprava_Agent.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/objects/Vozidlo.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/gui/tabView.fxml</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/continualAssistants/Planovac_Prichodov.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/objects/Autobus.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/objects/Stadion.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/continualAssistants/Presun_Vozidla.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/objects/enums/Varianta_Nastupov.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/diss3/DISS3.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/gui/replGUI/VozidloStatTableItem.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/continualAssistants/Nastup_Cestujucich.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/objects/enums/Varianta_Vozidla.java</file>
+            <file>file:/C:/Users/Marek/Documents/NetBeansProjects/DISS3/src/objects/Utilities.java</file>
+        </group>
+    </open-files>
+</project-private>

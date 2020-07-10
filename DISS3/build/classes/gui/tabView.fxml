@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.TabViewController">
+    <children>
+        <TabPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" tabClosingPolicy="UNAVAILABLE" VBox.vgrow="ALWAYS">
+            <tabs>
+                <Tab fx:id="tabSim" text="Sledovanie simulácie">
+                    <content>
+                        <fx:include id="runTab" source="./runGUI/main.fxml" />
+                  
+                      
+                    </content>
+          
+                </Tab>
+                <Tab fx:id="tabRepl" text="Replikácie">
+                    <content>
+                        <fx:include id="tabRepl" source="./replGUI/replView.fxml" />
+                  
+                      
+                    </content>
+                
+                </Tab>
+                
+            </tabs>
+        </TabPane>
+    </children>
+</VBox>

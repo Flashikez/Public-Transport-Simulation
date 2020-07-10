@@ -1,0 +1,103 @@
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  13;  Vozidla na linke B  0; Vozidla na linke C  0
+Autobus dvere: 4 kap: 186 AA 11:27:30;none;none
+Autobus dvere: 4 kap: 186 AA 11:10:12;none;none
+Autobus dvere: 4 kap: 186 AF 11:44:06;none;none
+Autobus dvere: 4 kap: 186 AL 11:12:30;none;none
+Autobus dvere: 4 kap: 186 AA 11:44:06;none;none
+Autobus dvere: 4 kap: 186 AI 11:34:54;none;none
+Autobus dvere: 4 kap: 186 K3 11:15:48;none;none
+Autobus dvere: 4 kap: 186 AL 11:07:00;none;none
+Autobus dvere: 4 kap: 186 AL 11:12:30;none;none
+Autobus dvere: 4 kap: 186 K3 11:34:54;none;none
+Autobus dvere: 4 kap: 186 AC 11:24:06;none;none
+Autobus dvere: 4 kap: 186 AA 11:07:00;none;none
+Autobus dvere: 4 kap: 186 AF 11:33:18;none;none
+Cena vozidiel: 7085000.0
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;7,9495 <7,840 , 8,059>;0,0888 <-0,036 , 0,213>
+B;8,1169 <7,723 , 8,511>;0,0000 <0,000 , 0,000>
+C;4,6896 <4,584 , 4,795>;0,0000 <0,000 , 0,000>
+Celkove priemerne cakanie cestujuceho;IS;Celkove priemerne percento neskoro;IS
+7,7799;<7,676 , 7,884>;0,0794;<-0,032 , 0,191>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4758,050;2431,050
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  13;  Vozidla na linke B  0; Vozidla na linke C  0
+Autobus dvere: 4 kap: 186 AL 11:10:12;none;none
+Autobus dvere: 4 kap: 186 AJ 11:27:30;none;none
+Autobus dvere: 4 kap: 186 AH 11:10:12;none;none
+Autobus dvere: 4 kap: 186 AL 11:07:00;none;none
+Autobus dvere: 4 kap: 186 AF 11:24:06;none;none
+Autobus dvere: 4 kap: 186 AI 11:07:00;none;none
+Autobus dvere: 4 kap: 186 AF 11:27:30;none;none
+Autobus dvere: 4 kap: 186 AA 11:34:54;none;none
+Autobus dvere: 4 kap: 186 K3 11:15:48;none;none
+Autobus dvere: 4 kap: 186 AC 11:10:12;none;none
+Autobus dvere: 4 kap: 186 K3 11:07:00;none;none
+Autobus dvere: 4 kap: 186 AA 11:12:30;none;none
+Autobus dvere: 4 kap: 186 AF 11:34:54;none;none
+Cena vozidiel: 7085000.0
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;8,2552 <7,998 , 8,512>;0,0000 <0,000 , 0,000>
+B;5,7474 <5,559 , 5,936>;0,0000 <0,000 , 0,000>
+C;6,3089 <6,019 , 6,599>;0,0000 <0,000 , 0,000>
+Celkove priemerne cakanie cestujuceho;IS;Celkove priemerne percento neskoro;IS
+8,0332;<7,800 , 8,266>;0,0000;<0,000 , 0,000>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4736,900;2407,700
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  13;  Vozidla na linke B  0; Vozidla na linke C  0
+Autobus dvere: 4 kap: 186 K1 11:10:12;none;none
+Autobus dvere: 4 kap: 186 K3 11:15:48;none;none
+Autobus dvere: 4 kap: 186 K3 11:34:54;none;none
+Autobus dvere: 4 kap: 186 AL 11:42:54;none;none
+Autobus dvere: 4 kap: 186 AB 11:21:12;none;none
+Autobus dvere: 4 kap: 186 AE 11:12:30;none;none
+Autobus dvere: 4 kap: 186 AL 11:10:12;none;none
+Autobus dvere: 4 kap: 186 AA 11:44:06;none;none
+Autobus dvere: 4 kap: 186 AJ 11:15:48;none;none
+Autobus dvere: 4 kap: 186 AK 11:15:48;none;none
+Autobus dvere: 4 kap: 186 AJ 11:27:30;none;none
+Autobus dvere: 4 kap: 186 AD 11:29:18;none;none
+Autobus dvere: 4 kap: 186 AA 11:29:18;none;none
+Cena vozidiel: 7085000.0
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;7,4679 <7,212 , 7,724>;0,0000 <0,000 , 0,000>
+B;5,9167 <5,738 , 6,096>;0,0000 <0,000 , 0,000>
+C;4,7372 <4,591 , 4,883>;0,0000 <0,000 , 0,000>
+Celkove priemerne cakanie cestujuceho;IS;Celkove priemerne percento neskoro;IS
+7,2516;<7,019 , 7,484>;0,0000;<0,000 , 0,000>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4724,550;2404,450
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  12;  Vozidla na linke B  0; Vozidla na linke C  0
+Autobus dvere: 4 kap: 186 AB 11:44:06;none;none
+Autobus dvere: 4 kap: 186 AH 11:29:18;none;none
+Autobus dvere: 4 kap: 186 AL 11:27:30;none;none
+Autobus dvere: 4 kap: 186 AL 11:29:18;none;none
+Autobus dvere: 4 kap: 186 AL 11:14:36;none;none
+Autobus dvere: 4 kap: 186 AD 11:34:54;none;none
+Autobus dvere: 4 kap: 186 AB 11:14:36;none;none
+Autobus dvere: 4 kap: 186 AK 11:24:06;none;none
+Autobus dvere: 4 kap: 186 K3 11:42:54;none;none
+Autobus dvere: 4 kap: 186 AJ 11:33:18;none;none
+Autobus dvere: 4 kap: 186 AE 11:44:06;none;none
+Autobus dvere: 4 kap: 186 AC 11:29:18;none;none
+Cena vozidiel: 6540000.0
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;8,9608 <8,746 , 9,176>;6,3907 <5,808 , 6,973>
+B;6,6126 <6,230 , 6,996>;0,0000 <0,000 , 0,000>
+C;5,0868 <5,002 , 5,172>;0,0000 <0,000 , 0,000>
+Celkove priemerne cakanie cestujuceho;IS;Celkove priemerne percento neskoro;IS
+8,6417;<8,439 , 8,845>;5,7479;<5,228 , 6,267>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4732,700;2411,500
+*********END ZAZNAM***********

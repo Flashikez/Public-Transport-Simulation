@@ -1,0 +1,80 @@
+*********ZAZNAM***********
+Čakanie 1,5 minúty na ďaľších
+Vozidla na linke A  0;  Vozidla na linke B  7; Vozidla na linke C  0
+ ;Vacsi autobus BH 11:16:48; 
+ ;Vacsi autobus K3 11:27:05; 
+ ;Vacsi autobus K2 11:34:00; 
+ ;Vacsi autobus BD 11:38:18; 
+ ;Vacsi autobus BE 11:32:48; 
+ ;Vacsi autobus BE 11:32:48; 
+ ;Vacsi autobus K3 11:27:05; 
+Cena vozidiel: 3815000.0
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;6,0970 <5,914 , 6,280>;1,1699 <0,665 , 1,675>
+B;7,1791 <7,092 , 7,267>;2,0618 <1,605 , 2,519>
+C;8,4081 <8,211 , 8,605>;0,0000 <0,000 , 0,000>
+Celkove priemerne cakanie cestujuceho;Celkove priemerne percento neskoro
+7,1903 <7,120 , 7,261>;1,8336 <1,424 , 2,243>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4761,100;1379,150
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Čakanie 1,5 minúty na ďaľších
+Vozidla na linke A  0;  Vozidla na linke B  7; Vozidla na linke C  0
+ ;Vacsi autobus K2 11:34:00; 
+ ;Vacsi autobus BF 11:30:05; 
+ ;Vacsi autobus BG 11:21:05; 
+ ;Vacsi autobus BF 11:30:05; 
+ ;Vacsi autobus BA 11:45:00; 
+ ;Vacsi autobus BE 11:32:48; 
+ ;Vacsi autobus BJ 11:13:35; 
+Cena vozidiel: 3815000.0
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;5,5236 <5,347 , 5,700>;2,2501 <0,657 , 3,844>
+B;7,9426 <7,745 , 8,140>;2,3376 <0,999 , 3,676>
+C;7,5793 <7,396 , 7,762>;0,1667 <-0,051 , 0,384>
+Celkove priemerne cakanie cestujuceho;Celkove priemerne percento neskoro
+7,7246 <7,563 , 7,886>;2,1532 <0,915 , 3,391>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4746,900;1376,350
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Čakanie 1,5 minúty na ďaľších
+Vozidla na linke A  0;  Vozidla na linke B  7; Vozidla na linke C  0
+ ;Vacsi autobus BD 11:38:18; 
+ ;Vacsi autobus BJ 11:13:35; 
+ ;Vacsi autobus BF 11:30:05; 
+ ;Vacsi autobus BB 11:43:48; 
+ ;Vacsi autobus BD 11:38:18; 
+ ;Vacsi autobus BI 11:16:18; 
+ ;Vacsi autobus BA 11:45:00; 
+Cena vozidiel: 3815000.0
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;9,1271 <8,802 , 9,452>;4,9422 <1,422 , 8,462>
+B;8,5400 <8,362 , 8,718>;5,3726 <3,200 , 7,545>
+C;11,3231 <11,004 , 11,642>;0,0000 <0,000 , 0,000>
+Celkove priemerne cakanie cestujuceho;Celkove priemerne percento neskoro
+8,7876 <8,615 , 8,960>;4,9538 <2,886 , 7,022>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4736,400;1381,400
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Čakanie 1,5 minúty na ďaľších
+Vozidla na linke A  0;  Vozidla na linke B  7; Vozidla na linke C  0
+ ;Vacsi autobus K2 11:34:00; 
+ ;Vacsi autobus BB 11:43:48; 
+ ;Vacsi autobus BG 11:21:05; 
+ ;Vacsi autobus K2 11:34:00; 
+ ;Vacsi autobus K2 11:34:00; 
+ ;Vacsi autobus K2 11:34:00; 
+ ;Vacsi autobus BJ 11:13:35; 
+Cena vozidiel: 3815000.0
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;8,4970 <8,221 , 8,773>;4,6505 <3,562 , 5,739>
+B;9,7396 <9,607 , 9,873>;4,2305 <3,631 , 4,830>
+C;10,0927 <9,829 , 10,357>;0,0000 <0,000 , 0,000>
+Celkove priemerne cakanie cestujuceho;Celkove priemerne percento neskoro
+9,6648 <9,561 , 9,769>;3,9493 <3,424 , 4,475>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4745,900;1381,950
+*********END ZAZNAM***********

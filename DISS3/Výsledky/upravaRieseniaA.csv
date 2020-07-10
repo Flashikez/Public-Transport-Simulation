@@ -1,0 +1,73 @@
+*********ZAZNAM***********;;
+Okamžitý odchod vozidla;;
+Vozidla na linke A  12;  Vozidla na linke B  5; Vozidla na linke C  7
+1 Vacsi autobus 186,00;0 Vacsi autobus 177,71;0 Vacsi autobus 184,39
+2 Vacsi autobus 198,56;1 Vacsi autobus 254,68;1 Vacsi autobus 186,00
+3 Vacsi autobus 185,98;2 Vacsi autobus 203,27;2 Vacsi autobus 178,64
+4 Vacsi autobus 186,00;3 Vacsi autobus 221,75;6 Vacsi autobus 186,00
+5 Vacsi autobus 156,56;4 Vacsi autobus 371,99;7 Vacsi autobus 184,53
+6 Vacsi autobus 186,00; ;8 Vacsi autobus 186,00
+7 Vacsi autobus 186,00; ;9 Vacsi autobus 202,76
+8 Vacsi autobus 178,38; ; 
+9 Vacsi autobus 186,00; ; 
+10 Vacsi autobus 183,94; ; 
+11 Vacsi autobus 185,78; ; 
+12 Vacsi autobus 186,00; ; 
+Cena vozidiel: 1.308E7;;
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;6,1120 <6,039 , 6,185>;0,0000 <0,000 , 0,000>
+B;6,8098 <6,747 , 6,873>;0,6241 <0,556 , 0,692>
+C;12,4533 <12,353 , 12,554>;1,7113 <1,580 , 1,843>
+Celkove priemerne cakanie cestujuceho;Celkove priemerne percento neskoro;
+8,1655 <8,119 , 8,212>;0,6623 <0,623 , 0,702>;
+Pocet celkovych cestujucich;Pocet cestujucich na stadione;
+4742,920;4742,920;
+*********END ZAZNAM***********;;
+*********ZAZNAM***********;;
+Okamžitý odchod vozidla;;
+Vozidla na linke A  11;  Vozidla na linke B  5; Vozidla na linke C  7
+1 Vacsi autobus 186,00;0 Vacsi autobus 177,46;0 Vacsi autobus 183,49
+2 Vacsi autobus 273,78;1 Vacsi autobus 253,17;1 Vacsi autobus 186,00
+3 Vacsi autobus 186,00;2 Vacsi autobus 215,86;2 Vacsi autobus 184,80
+4 Vacsi autobus 248,12;3 Vacsi autobus 222,25;6 Vacsi autobus 186,00
+6 Vacsi autobus 186,00;4 Vacsi autobus 372,00;7 Vacsi autobus 183,97
+7 Vacsi autobus 186,00; ;8 Vacsi autobus 186,00
+8 Vacsi autobus 177,95; ;9 Vacsi autobus 213,77
+9 Vacsi autobus 186,00; ; 
+10 Vacsi autobus 184,05; ; 
+11 Vacsi autobus 185,32; ; 
+12 Vacsi autobus 186,00; ; 
+Cena vozidiel: 1.2535E7;;
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;7,3188 <7,215 , 7,423>;2,8442 <2,673 , 3,015>
+B;6,8551 <6,795 , 6,916>;0,6547 <0,584 , 0,725>
+C;12,5532 <12,426 , 12,681>;2,3875 <2,213 , 2,562>
+Celkove priemerne cakanie cestujuceho;Celkove priemerne percento neskoro;
+8,7602 <8,702 , 8,819>;2,1766 <2,083 , 2,270>;
+Pocet celkovych cestujucich;Pocet cestujucich na stadione;
+4749,990;4749,990;
+*********END ZAZNAM***********;;
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  11;  Vozidla na linke B  5; Vozidla na linke C  7
+Vacsi autobus K3 11:15:48;Mensi autobus K3 11:19:00;Vacsi autobus CC 11:07:30
+Mensi autobus K3 11:34:54;Vacsi autobus K3 11:13:30;Vacsi autobus CA 11:29:18
+Vacsi autobus AL 11:42:54;Mensi autobus BH 11:12:18;Vacsi autobus CF 11:29:18
+Vacsi autobus AB 11:21:12;Vacsi autobus BA 11:13:30;Vacsi autobus CE 11:09:48
+Vacsi autobus AL 11:10:12;Vacsi autobus BJ 11:12:18;Vacsi autobus CC 11:07:30
+Vacsi autobus AA 11:44:06; ;Vacsi autobus CC 11:06:54
+Vacsi autobus AJ 11:15:48; ;Vacsi autobus CA 11:13:54
+Vacsi autobus AK 11:15:48; ; 
+Mensi autobus AJ 11:27:30; ; 
+Vacsi autobus AD 11:29:18; ; 
+Vacsi autobus AA 11:29:18; ; 
+Cena vozidiel: 1.1635E7
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;8,3480 <8,249 , 8,447>;9,6203 <9,445 , 9,796>
+B;9,6102 <9,494 , 9,726>;0,8287 <0,728 , 0,929>
+C;12,4291 <12,323 , 12,536>;2,0905 <1,917 , 2,264>
+Celkove priemerne cakanie cestujuceho;Celkove priemerne percento neskoro
+9,8681 <9,802 , 9,934>;5,2351 <5,132 , 5,338>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4738,190;4738,190
+*********END ZAZNAM***********

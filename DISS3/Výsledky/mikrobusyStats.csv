@@ -1,0 +1,198 @@
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  16;  Vozidla na linke B  9; Vozidla na linke C  11
+1 Vacsi autobus 186,00;0 Mensi autobus 107,02;0 Vacsi autobus 182,67
+2 Mensi autobus 196,43;1 Vacsi autobus 324,59;1 Vacsi autobus 186,00
+3 Vacsi autobus 186,00;2 Mensi autobus 186,34;2 Vacsi autobus 183,98
+4 Vacsi autobus 353,57;3 Vacsi autobus 220,90;6 Vacsi autobus 186,00
+6 Vacsi autobus 186,00;4 Vacsi autobus 372,00;7 Vacsi autobus 183,32
+7 Vacsi autobus 186,00;2000 Mikrobus 8,00;8 Vacsi autobus 186,00
+8 Vacsi autobus 182,07;2001 Mikrobus 8,00;9 Vacsi autobus 186,11
+9 Vacsi autobus 186,00;2002 Mikrobus 8,00;3000 Mikrobus 5,62
+10 Mensi autobus 107,00;2003 Mikrobus 8,00;3001 Mikrobus 4,46
+11 Vacsi autobus 189,15; ;3002 Mikrobus 6,76
+12 Vacsi autobus 186,00; ;3003 Mikrobus 7,11
+1000 Mikrobus 8,00; ; 
+1001 Mikrobus 10,19; ; 
+1002 Mikrobus 8,00; ; 
+1003 Mikrobus 8,00; ; 
+1004 Mikrobus 8,00; ; 
+Cena vozidiel: 1.1635E7
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;8,2632 <8,148 , 8,378>;7,8504 <7,658 , 8,043>
+B;8,9226 <8,791 , 9,054>;0,6204 <0,546 , 0,695>
+C;12,2136 <12,097 , 12,331>;0,6994 <0,578 , 0,821>
+Linka;Zisk mikrobusov
+A;42.19
+B;32.0
+C;23.95
+Celkove priemerne cakanie cestujuceho;Celkove priemerne percento neskoro
+9,5981 <9,527 , 9,669>;3,9602 <3,868 , 4,053>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4747,290;4747,290
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  16;  Vozidla na linke B  9; Vozidla na linke C  11
+1 Vacsi autobus 186,00;0 Mensi autobus 107,06;0 Vacsi autobus 183,56
+2 Mensi autobus 196,57;1 Vacsi autobus 318,89;1 Vacsi autobus 186,00
+3 Vacsi autobus 186,00;2 Mensi autobus 187,02;2 Vacsi autobus 182,39
+4 Vacsi autobus 353,37;3 Vacsi autobus 221,04;6 Vacsi autobus 186,00
+6 Vacsi autobus 186,00;4 Vacsi autobus 371,97;7 Vacsi autobus 183,71
+7 Vacsi autobus 185,97;2000 Mikrobus 8,00;8 Vacsi autobus 186,00
+8 Vacsi autobus 179,00;2001 Mikrobus 8,00;9 Vacsi autobus 186,23
+9 Vacsi autobus 186,00;2002 Mikrobus 8,00;3000 Mikrobus 5,42
+10 Mensi autobus 107,00;2003 Mikrobus 8,00;3001 Mikrobus 4,51
+11 Vacsi autobus 190,59; ;3002 Mikrobus 6,55
+12 Vacsi autobus 186,00; ;3003 Mikrobus 7,34
+1000 Mikrobus 8,00; ; 
+1001 Mikrobus 10,24; ; 
+1002 Mikrobus 8,00; ; 
+1003 Mikrobus 8,00; ; 
+1004 Mikrobus 8,00; ; 
+Cena vozidiel: 1.1635E7
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;8,0693 <7,967 , 8,172>;7,9134 <7,719 , 8,108>
+B;8,7665 <8,648 , 8,885>;0,5933 <0,526 , 0,661>
+C;12,3787 <12,258 , 12,499>;0,6674 <0,554 , 0,780>
+Linka;Zisk mikrobusov
+A;42.24
+B;32.0
+C;23.82
+Celkove priemerne cakanie cestujuceho;Celkove priemerne percento neskoro
+9,5214 <9,458 , 9,585>;3,9751 <3,877 , 4,073>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4740,430;4740,430
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  16;  Vozidla na linke B  9; Vozidla na linke C  11
+1 Vacsi autobus 186,00;0 Mensi autobus 107,20;0 Vacsi autobus 183,39
+2 Mensi autobus 195,80;1 Vacsi autobus 320,88;1 Vacsi autobus 186,00
+3 Vacsi autobus 186,00;2 Mensi autobus 185,19;2 Vacsi autobus 184,50
+4 Vacsi autobus 352,10;3 Vacsi autobus 221,94;6 Vacsi autobus 186,00
+6 Vacsi autobus 186,00;4 Vacsi autobus 371,95;7 Vacsi autobus 183,44
+7 Vacsi autobus 186,00;2000 Mikrobus 8,01;8 Vacsi autobus 186,00
+8 Vacsi autobus 178,21;2001 Mikrobus 8,00;9 Vacsi autobus 184,91
+9 Vacsi autobus 186,00;2002 Mikrobus 8,00;3000 Mikrobus 5,74
+10 Mensi autobus 107,00;2003 Mikrobus 8,00;3001 Mikrobus 4,44
+11 Vacsi autobus 190,27; ;3002 Mikrobus 6,47
+12 Vacsi autobus 186,00; ;3003 Mikrobus 7,17
+1000 Mikrobus 8,00; ; 
+1001 Mikrobus 10,15; ; 
+1002 Mikrobus 8,00; ; 
+1003 Mikrobus 8,00; ; 
+1004 Mikrobus 8,00; ; 
+Cena vozidiel: 1.1635E7
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;8,1640 <8,054 , 8,274>;7,8502 <7,667 , 8,033>
+B;8,7564 <8,617 , 8,896>;0,6592 <0,584 , 0,735>
+C;12,2836 <12,159 , 12,408>;0,6368 <0,509 , 0,764>
+Linka;Zisk mikrobusov
+A;42.15
+B;32.01
+C;23.82
+Celkove priemerne cakanie cestujuceho;Celkove priemerne percento neskoro
+9,5332 <9,467 , 9,599>;3,9515 <3,858 , 4,045>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4738,760;4738,760
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  16;  Vozidla na linke B  9; Vozidla na linke C  11
+1 Vacsi autobus 186,00;0 Mensi autobus 107,21;0 Vacsi autobus 184,96
+2 Mensi autobus 196,02;1 Vacsi autobus 320,61;1 Vacsi autobus 186,00
+3 Vacsi autobus 186,00;2 Mensi autobus 185,46;2 Vacsi autobus 183,74
+4 Vacsi autobus 354,89;3 Vacsi autobus 221,94;6 Vacsi autobus 186,00
+6 Vacsi autobus 186,00;4 Vacsi autobus 371,98;7 Vacsi autobus 185,01
+7 Vacsi autobus 186,00;2000 Mikrobus 8,00;8 Vacsi autobus 186,00
+8 Vacsi autobus 180,74;2001 Mikrobus 8,00;9 Vacsi autobus 186,93
+9 Vacsi autobus 186,00;2002 Mikrobus 8,00;3000 Mikrobus 5,48
+10 Mensi autobus 107,00;2003 Mikrobus 8,00;3001 Mikrobus 4,21
+11 Vacsi autobus 190,09; ;3002 Mikrobus 6,32
+12 Vacsi autobus 186,00; ;3003 Mikrobus 6,97
+1000 Mikrobus 8,00; ; 
+1001 Mikrobus 10,29; ; 
+1002 Mikrobus 8,00; ; 
+1003 Mikrobus 8,00; ; 
+1004 Mikrobus 8,00; ; 
+Cena vozidiel: 1.1635E7
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;8,1338 <8,033 , 8,235>;7,9762 <7,803 , 8,149>
+B;8,7969 <8,659 , 8,935>;0,6965 <0,626 , 0,767>
+C;12,4205 <12,318 , 12,523>;0,6447 <0,517 , 0,772>
+Linka;Zisk mikrobusov
+A;42.29
+B;32.0
+C;22.98
+Celkove priemerne cakanie cestujuceho;Celkove priemerne percento neskoro
+9,5695 <9,504 , 9,635>;4,0208 <3,931 , 4,110>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4747,850;4747,850
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  16;  Vozidla na linke B  9; Vozidla na linke C  11
+Vacsi autobus K3 11:15:48;Mensi autobus K3 11:19:00;Vacsi autobus CC 11:07:30
+Mensi autobus K3 11:34:54;Vacsi autobus K3 11:13:30;Vacsi autobus CA 11:29:18
+Vacsi autobus AL 11:42:54;Mensi autobus BH 11:12:18;Vacsi autobus CF 11:29:18
+Vacsi autobus AB 11:21:12;Vacsi autobus BA 11:13:30;Vacsi autobus CE 11:09:48
+Vacsi autobus AL 11:10:12;Vacsi autobus BJ 11:12:18;Vacsi autobus CC 11:07:30
+Vacsi autobus AA 11:44:06;Mikrobus BA 11:12:18;Vacsi autobus CC 11:06:54
+Vacsi autobus AJ 11:15:48;Mikrobus BA 11:13:18;Vacsi autobus CA 11:13:54
+Vacsi autobus AK 11:15:48;Mikrobus BA 11:14:18;Mikrobus CA 11:06:54
+Mensi autobus AJ 11:27:30;Mikrobus BA 11:15:18;Mikrobus CA 11:07:54
+Vacsi autobus AD 11:29:18; ;Mikrobus CA 11:08:54
+Vacsi autobus AA 11:29:18; ;Mikrobus CA 11:09:54
+Mikrobus AA 11:07:00; ; 
+Mikrobus AA 11:08:00; ; 
+Mikrobus AA 11:09:00; ; 
+Mikrobus AA 11:10:00; ; 
+Mikrobus AA 11:11:00; ; 
+Cena vozidiel: 1.1635E7
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;8,1757 <8,080 , 8,272>;7,9352 <7,776 , 8,094>
+B;8,9009 <8,766 , 9,036>;0,6129 <0,551 , 0,675>
+C;12,3443 <12,237 , 12,452>;0,6540 <0,537 , 0,770>
+Linka;Zisk mikrobusov
+A;42.34
+B;32.01
+C;24.34
+Celkove priemerne cakanie cestujuceho;Celkove priemerne percento neskoro
+9,5890 <9,525 , 9,653>;3,9863 <3,905 , 4,068>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4744,600;4744,600
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  16;  Vozidla na linke B  8; Vozidla na linke C  12
+Vacsi autobus K3 11:15:48;Mensi autobus K3 11:19:00;Vacsi autobus CC 11:07:30
+Mensi autobus K3 11:34:54;Vacsi autobus K3 11:13:30;Vacsi autobus CA 11:29:18
+Vacsi autobus AL 11:42:54;Mensi autobus BH 11:12:18;Vacsi autobus CF 11:29:18
+Vacsi autobus AB 11:21:12;Vacsi autobus BA 11:13:30;Vacsi autobus CE 11:09:48
+Vacsi autobus AL 11:10:12;Vacsi autobus BJ 11:12:18;Vacsi autobus CC 11:07:30
+Vacsi autobus AA 11:44:06;Mikrobus BA 11:12:18;Vacsi autobus CC 11:06:54
+Vacsi autobus AJ 11:15:48;Mikrobus BA 11:17:18;Vacsi autobus CA 11:13:54
+Vacsi autobus AK 11:15:48;Mikrobus BA 11:22:18;Mikrobus CA 11:06:54
+Mensi autobus AJ 11:27:30; ;Mikrobus CA 11:11:54
+Vacsi autobus AD 11:29:18; ;Mikrobus CA 11:16:54
+Vacsi autobus AA 11:29:18; ;Mikrobus CA 11:21:54
+Mikrobus AA 11:07:00; ;Mikrobus CA 11:26:54
+Mikrobus AA 11:12:00; ; 
+Mikrobus AA 11:17:00; ; 
+Mikrobus AA 11:22:00; ; 
+Mikrobus AA 11:27:00; ; 
+Cena vozidiel: 1.1635E7
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;7,8322 <7,755 , 7,909>;8,6380 <8,480 , 8,796>
+B;8,9160 <8,792 , 9,041>;0,5903 <0,518 , 0,663>
+C;11,8177 <11,715 , 11,920>;0,7344 <0,643 , 0,825>
+Linka;Zisk mikrobusov
+A;50.3
+B;32.01
+C;28.33
+Celkove priemerne cakanie cestujuceho;Celkove priemerne percento neskoro
+9,2818 <9,226 , 9,338>;4,3258 <4,246 , 4,405>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4748,380;4748,380
+*********END ZAZNAM***********

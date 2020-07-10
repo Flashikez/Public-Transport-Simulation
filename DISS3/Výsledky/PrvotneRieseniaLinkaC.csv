@@ -1,0 +1,93 @@
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  0;  Vozidla na linke B  0; Vozidla na linke C  10
+none;none;Autobus dvere: 4 kap: 186 CC 11:07:30
+none;none;Autobus dvere: 4 kap: 186 CA 11:29:18
+none;none;Autobus dvere: 4 kap: 186 CF 11:29:18
+none;none;Autobus dvere: 4 kap: 186 CA 11:07:30
+none;none;Autobus dvere: 4 kap: 186 CB 11:34:06
+none;none;Autobus dvere: 4 kap: 186 CB 11:34:06
+none;none;Autobus dvere: 4 kap: 186 CE 11:09:48
+none;none;Autobus dvere: 4 kap: 186 CC 11:07:30
+none;none;Autobus dvere: 4 kap: 186 CC 11:06:54
+none;none;Autobus dvere: 4 kap: 186 CA 11:13:54
+Cena vozidiel: 5450000.0
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;9,7448 <9,444 , 10,046>;2,0422 <1,249 , 2,835>
+B;10,0645 <9,820 , 10,309>;5,0292 <3,524 , 6,534>
+C;9,6725 <9,526 , 9,819>;0,0000 <0,000 , 0,000>
+Celkove priemerne cakanie cestujuceho;IS;Celkove priemerne percento neskoro;IS
+9,7000;<9,576 , 9,824>;0,4849;<0,386 , 0,584>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4743,000;1639,200
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  0;  Vozidla na linke B  0; Vozidla na linke C  11
+none;none;Autobus dvere: 4 kap: 186 CB 11:06:54
+none;none;Autobus dvere: 4 kap: 186 K1 11:29:18
+none;none;Autobus dvere: 4 kap: 186 CA 11:29:18
+none;none;Autobus dvere: 4 kap: 186 CF 11:34:06
+none;none;Autobus dvere: 4 kap: 186 K1 11:06:54
+none;none;Autobus dvere: 4 kap: 186 CF 11:09:48
+none;none;Autobus dvere: 4 kap: 186 CG 11:07:30
+none;none;Autobus dvere: 4 kap: 186 CA 11:22:12
+none;none;Autobus dvere: 4 kap: 186 K1 11:29:18
+none;none;Autobus dvere: 4 kap: 186 CD 11:07:30
+none;none;Autobus dvere: 4 kap: 186 CE 11:07:30
+Cena vozidiel: 5995000.0
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;5,5935 <5,352 , 5,835>;3,6456 <2,523 , 4,768>
+B;7,0597 <6,796 , 7,323>;7,1554 <5,451 , 8,860>
+C;8,5093 <8,346 , 8,672>;0,0000 <0,000 , 0,000>
+Celkove priemerne cakanie cestujuceho;IS;Celkove priemerne percento neskoro;IS
+8,1933;<8,039 , 8,348>;0,7504;<0,630 , 0,870>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4751,900;1642,850
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  0;  Vozidla na linke B  0; Vozidla na linke C  10
+none;none;Autobus dvere: 4 kap: 186 CB 11:34:06
+none;none;Autobus dvere: 4 kap: 186 CB 11:34:06
+none;none;Autobus dvere: 4 kap: 186 CB 11:29:18
+none;none;Autobus dvere: 4 kap: 186 CE 11:13:54
+none;none;Autobus dvere: 4 kap: 186 CA 11:34:06
+none;none;Autobus dvere: 4 kap: 186 CD 11:06:54
+none;none;Autobus dvere: 4 kap: 186 CF 11:09:48
+none;none;Autobus dvere: 4 kap: 186 CC 11:09:48
+none;none;Autobus dvere: 4 kap: 186 CE 11:34:06
+none;none;Autobus dvere: 4 kap: 186 CG 11:19:54
+Cena vozidiel: 5450000.0
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;7,5721 <7,323 , 7,822>;5,1200 <1,992 , 8,248>
+B;8,8885 <8,663 , 9,114>;10,6103 <7,260 , 13,960>
+C;9,9057 <9,833 , 9,978>;3,4321 <2,815 , 4,049>
+Celkove priemerne cakanie cestujuceho;IS;Celkove priemerne percento neskoro;IS
+9,6657;<9,585 , 9,746>;4,0291;<3,119 , 4,939>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4747,650;1625,650
+*********END ZAZNAM***********
+*********ZAZNAM***********
+Okamžitý odchod vozidla
+Vozidla na linke A  0;  Vozidla na linke B  0; Vozidla na linke C  10
+none;none;Autobus dvere: 4 kap: 186 K2 11:09:48
+none;none;Autobus dvere: 4 kap: 186 CC 11:22:12
+none;none;Autobus dvere: 4 kap: 186 CF 11:13:54
+none;none;Autobus dvere: 4 kap: 186 CF 11:13:54
+none;none;Autobus dvere: 4 kap: 186 K2 11:37:48
+none;none;Autobus dvere: 4 kap: 186 CC 11:06:54
+none;none;Autobus dvere: 4 kap: 186 CD 11:22:12
+none;none;Autobus dvere: 4 kap: 186 CA 11:22:12
+none;none;Autobus dvere: 4 kap: 186 CB 11:13:54
+none;none;Autobus dvere: 4 kap: 186 CA 11:37:48
+Cena vozidiel: 5450000.0
+Linka;Cakanie cestujuceho na linke IS;Percento neskorych prichodov na linke IS
+A;6,5136 <6,160 , 6,867>;0,5946 <0,359 , 0,830>
+B;6,9861 <6,712 , 7,260>;4,8066 <3,588 , 6,025>
+C;9,7888 <9,597 , 9,981>;0,0000 <0,000 , 0,000>
+Celkove priemerne cakanie cestujuceho;IS;Celkove priemerne percento neskoro;IS
+9,3641;<9,181 , 9,547>;0,3375;<0,264 , 0,411>
+Pocet celkovych cestujucich;Pocet cestujucich na stadione
+4738,600;1629,600
+*********END ZAZNAM***********

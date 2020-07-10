@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<ScrollPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.runGUI.MainController">
+   <content>
+      <VBox maxWidth="1.7976931348623157E308" spacing="5.0">
+         <children>
+            <HBox alignment="CENTER_LEFT" prefHeight="178.0">
+               <children>
+                  <VBox fx:id="runTab" alignment="TOP_CENTER" minHeight="-Infinity" minWidth="-Infinity">
+                     <children>
+                        <Label text="Vstupné nastavenie">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <HBox alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="43.0" prefWidth="612.0" spacing="30.0">
+                           <children>
+                              <VBox alignment="TOP_CENTER" />
+                              <VBox alignment="TOP_CENTER">
+                                 <children>
+                                    <Label text="Násada" />
+                                    <ChoiceBox fx:id="cbSeed" prefWidth="150.0" />
+                                    <TextField fx:id="tfSeed" visible="false" />
+                                 </children>
+                              </VBox>
+                              <VBox alignment="TOP_CENTER">
+                                 <children>
+                                    <Label text="Konfigurácia" />
+                                    <Button fx:id="btnConfig" mnemonicParsing="false" text="Vytvor konfig" />
+                                    <Label fx:id="lbKonfig" textFill="#2bc33d">
+                                       <font>
+                                          <Font name="System Bold" size="12.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <VBox spacing="10.0">
+                                 <children>
+                                    <Button fx:id="btnStart" mnemonicParsing="false" text="Start" />
+                                    <Button fx:id="btnStop" mnemonicParsing="false" text="Stop" />
+                                 </children>
+                                 <HBox.margin>
+                                    <Insets left="50.0" />
+                                 </HBox.margin>
+                              </VBox>
+                           </children>
+                           <VBox.margin>
+                              <Insets left="10.0" />
+                           </VBox.margin>
+                           <padding>
+                              <Insets right="10.0" />
+                           </padding>
+                        </HBox>
+                        <Separator maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" />
+                        <Label text="Ovládanie behu">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <HBox alignment="TOP_CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" spacing="15.0">
+                           <children>
+                              <VBox alignment="CENTER">
+                                 <children>
+                                    <Label text="Rýchlosť" />
+                                    <ChoiceBox fx:id="cbSpeed" prefWidth="150.0" />
+                                 </children>
+                              </VBox>
+                              <Button fx:id="btnPause" disable="true" mnemonicParsing="false" text="Pauza">
+                                 <HBox.margin>
+                                    <Insets left="50.0" />
+                                 </HBox.margin>
+                              </Button>
+                              <Button fx:id="btnContinue" disable="true" mnemonicParsing="false" text="Pokračuj" />
+                           </children>
+                           <padding>
+                              <Insets right="10.0" />
+                           </padding>
+                           <VBox.margin>
+                              <Insets left="5.0" />
+                           </VBox.margin>
+                        </HBox>
+                     </children>
+                     <HBox.margin>
+                        <Insets bottom="5.0" />
+                     </HBox.margin>
+                  </VBox>
+                  <Separator orientation="VERTICAL" />
+                  <VBox alignment="TOP_CENTER" HBox.hgrow="ALWAYS">
+                     <children>
+                        <HBox alignment="TOP_CENTER" prefHeight="84.0" prefWidth="904.0" spacing="58.0" VBox.vgrow="ALWAYS">
+                           <children>
+                              <VBox alignment="TOP_CENTER">
+                                 <children>
+                                    <Label text="Simulačný čas" textFill="#1b02f5">
+                                       <font>
+                                          <Font name="Arial Bold" size="23.0" />
+                                       </font>
+                                    </Label>
+                                    <Label fx:id="lbTime">
+                                       <font>
+                                          <Font name="System Bold" size="22.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                              <Separator orientation="VERTICAL" prefHeight="200.0" />
+                              <VBox alignment="TOP_CENTER">
+                                 <children>
+                                    <Label text="Štart zápasu">
+                                       <font>
+                                          <Font name="System Italic" size="20.0" />
+                                       </font>
+                                    </Label>
+                                    <Label fx:id="lbCasStart">
+                                       <font>
+                                          <Font name="System Bold" size="22.0" />
+                                       </font>
+                                    </Label>
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                        <Separator maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" />
+                        <GridPane vgap="5.0">
+                          <columnConstraints>
+                            <ColumnConstraints halignment="LEFT" minWidth="10.0" prefWidth="250.0" />
+                            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+                              <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                              <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                          </columnConstraints>
+                          <rowConstraints>
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                          </rowConstraints>
+                           <children>
+                              <Label text="Celkový počet cestujúcich" textFill="#1706ff">
+                                 <font>
+                                    <Font name="System Bold" size="12.0" />
+                                 </font>
+                              </Label>
+                              <Label text="Cestujúci na zastávkach" GridPane.rowIndex="2" />
+                              <Label text="Cestujúci vo vozidlách" GridPane.rowIndex="1" />
+                              <Label fx:id="lbCelkovyPocet" GridPane.columnIndex="1">
+                                 <font>
+                                    <Font size="15.0" />
+                                 </font>
+                              </Label>
+                              <Label fx:id="lbPocetZastavky" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                              <Label fx:id="lbPocetVozidla" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                                 <font>
+                                    <Font size="14.0" />
+                                 </font>
+                              </Label>
+                              <Label text="Ľudia na štadióne" textFill="#2914ae" GridPane.rowIndex="3">
+                                 <font>
+                                    <Font name="System Bold" size="15.0" />
+                                 </font>
+                              </Label>
+                              <Label fx:id="lbPocetStadion" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                              <Label text="Počet čo prišiel na zápas neskoro" textFill="#070707" GridPane.columnIndex="2">
+                                 <font>
+                                    <Font name="System Bold" size="12.0" />
+                                 </font>
+                              </Label>
+                              <Label text="Počet čo prišiel na zápas včas" textFill="#070707" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                                 <font>
+                                    <Font name="System Bold" size="12.0" />
+                                 </font>
+                              </Label>
+                              <Label fx:id="lbPocetNeskoro" GridPane.columnIndex="3">
+                                 <font>
+                                    <Font size="15.0" />
+                                 </font>
+                              </Label>
+                              <Label fx:id="lbPocetVcas" GridPane.columnIndex="3" GridPane.rowIndex="1">
+                                 <font>
+                                    <Font size="15.0" />
+                                 </font>
+                              </Label>
+                              <Label text="Priemerná doba čakania na vozidlo" textFill="#0f901c" GridPane.columnIndex="2" GridPane.rowIndex="2">
+                                 <font>
+                                    <Font name="System Bold" size="12.0" />
+                                 </font>
+                              </Label>
+                              <Label text="Percento čo prišlo neskoro" textFill="#f716a4" GridPane.columnIndex="2" GridPane.rowIndex="3">
+                                 <font>
+                                    <Font name="System Bold" size="12.0" />
+                                 </font>
+                              </Label>
+                              <Label fx:id="lbCakanie" GridPane.columnIndex="3" GridPane.rowIndex="2">
+                                 <font>
+                                    <Font size="15.0" />
+                                 </font>
+                              </Label>
+                              <Label fx:id="lbPercentoNeskoro" GridPane.columnIndex="3" GridPane.rowIndex="3">
+                                 <font>
+                                    <Font size="15.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </GridPane>
+                     </children>
+                     <HBox.margin>
+                        <Insets top="10.0" />
+                     </HBox.margin>
+                  </VBox>
+               </children>
+            </HBox>
+            <Separator maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" />
+            <HBox alignment="TOP_CENTER" spacing="5.0">
+               <children>
+                  <VBox alignment="TOP_CENTER" spacing="5.0">
+                     <children>
+                        <Label text="Linka A">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <Label text="Vozidlá" />
+                        <TableView fx:id="tvVozidlaA" editable="true" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="300.0" prefWidth="500.0" VBox.vgrow="ALWAYS">
+                          <columns>
+                            <TableColumn fx:id="tcA_Vozidla_ID" prefWidth="24.0" style="-fx-alignment: CENTER;" text="ID" />
+                            <TableColumn fx:id="tcA_Vozidla_Varianta" prefWidth="71.0" style="-fx-alignment: CENTER;" text="Varianta" />
+                              <TableColumn fx:id="tcA_Vozidla_Obsadenost" prefWidth="76.0" style="-fx-alignment: CENTER;" text="Obsadenosť" />
+                              <TableColumn fx:id="tcA_Vozidla_Dvere" minWidth="0.0" prefWidth="113.0" text="Volne dvere">
+                                 <columns>
+                                    <TableColumn fx:id="tcA_Vozidla_Dvere1" prefWidth="29.0" />
+                                    <TableColumn fx:id="tcA_Vozidla_Dvere2" prefWidth="27.0" />
+                                    <TableColumn fx:id="tcA_Vozidla_Dvere3" prefWidth="29.0" />
+                                    <TableColumn fx:id="tcA_Vozidla_Dvere4" prefWidth="29.0" />
+                                 </columns>
+                              </TableColumn>
+                              <TableColumn fx:id="tcA_Vozidla_Cinnost" prefWidth="255.0" text="Činnosť">
+                                 <columns>
+                                    <TableColumn fx:id="tcA_Vozidla_Aktivita" prefWidth="166.0" text="Aktivita" />
+                                    <TableColumn fx:id="tcA_Vozidla_Progress" minWidth="0.0" prefWidth="62.0" style="-fx-alignment: CENTER-LEFT;" />
+                                 </columns>
+                              </TableColumn>
+                          </columns>
+                        </TableView>
+                        <Label text="Zastávky" />
+                        <TableView fx:id="tvZastavkyA" editable="true" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="300.0" prefWidth="500.0">
+                           <columns>
+                              <TableColumn fx:id="tcA_Zastavky_ID" prefWidth="30.999969482421875" style="-fx-alignment: CENTER;" text="ID" />
+                              <TableColumn fx:id="tcA_Zastavky_Pocet" prefWidth="69.0" style="-fx-alignment: CENTER;" text="Počet ľudí" />
+                              <TableColumn fx:id="tcA_Zastavky_PocetCelkovo" prefWidth="141.0" style="-fx-alignment: CENTER;" text="Počet ľudí celkovo" />
+                              <TableColumn fx:id="tcA_Zastavky_Vozidla" prefWidth="258.0" style="-fx-alignment: CENTER;" text="Vozidlá na zastávke" />
+                           </columns>
+                        </TableView>
+                     </children>
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                  </VBox>
+                  <Separator orientation="VERTICAL" prefHeight="200.0" />
+                  <VBox alignment="TOP_CENTER" spacing="5.0">
+                     <children>
+                        <Label text="Linka B">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <Label text="Vozidlá" />
+                        <TableView fx:id="tvVozidlaB" editable="true" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="300.0" prefWidth="500.0" VBox.vgrow="ALWAYS">
+                           <columns>
+                              <TableColumn fx:id="tcB_Vozidla_ID" prefWidth="24.0" style="-fx-alignment: CENTER;" text="ID" />
+                              <TableColumn fx:id="tcB_Vozidla_Varianta" prefWidth="71.0" style="-fx-alignment: CENTER;" text="Varianta" />
+                              <TableColumn fx:id="tcB_Vozidla_Obsadenost" prefWidth="73.0" style="-fx-alignment: CENTER;" text="Obsadenosť" />
+                              <TableColumn fx:id="tcB_Vozidla_Dvere" minWidth="0.0" prefWidth="116.0" text="Volne dvere">
+                                 <columns>
+                                    <TableColumn fx:id="tcB_Vozidla_Dvere1" prefWidth="29.0" />
+                                    <TableColumn fx:id="tcB_Vozidla_Dvere2" prefWidth="27.0" />
+                                    <TableColumn fx:id="tcB_Vozidla_Dvere3" prefWidth="29.0" />
+                                    <TableColumn fx:id="tcB_Vozidla_Dvere4" prefWidth="29.0" />
+                                 </columns>
+                              </TableColumn>
+                              <TableColumn fx:id="tcB_Vozidla_Cinnost" prefWidth="255.0" text="Činnosť">
+                                 <columns>
+                                    <TableColumn fx:id="tcB_Vozidla_Aktivita" prefWidth="166.0" text="Aktivita" />
+                                    <TableColumn fx:id="tcB_Vozidla_Progress" minWidth="0.0" prefWidth="62.0" />
+                                 </columns>
+                              </TableColumn>
+                           </columns>
+                        </TableView>
+                        <Label text="Zastávky" />
+                        <TableView fx:id="tvZastavkyB" editable="true" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="300.0" prefWidth="500.0">
+                           <columns>
+                              <TableColumn fx:id="tcB_Zastavky_ID" prefWidth="37.0" style="-fx-alignment: CENTER;" text="ID" />
+                              <TableColumn fx:id="tcB_Zastavky_Pocet" prefWidth="75.0" style="-fx-alignment: CENTER;" text="Počet ľudí" />
+                              <TableColumn fx:id="tcB_Zastavky_PocetCelkovo" prefWidth="116.0" style="-fx-alignment: CENTER;" text="Počet ľudí celkovo" />
+                              <TableColumn fx:id="tcB_Zastavky_Vozidla" prefWidth="271.0" style="-fx-alignment: CENTER;" text="Vozidlá na zastávke" />
+                           </columns>
+                        </TableView>
+                     </children>
+                  </VBox>
+                  <Separator orientation="VERTICAL" prefHeight="200.0" />
+                  <VBox alignment="TOP_CENTER" spacing="5.0">
+                     <children>
+                        <Label text="Linka C">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <Label text="Vozidlá" />
+                        <TableView fx:id="tvVozidlaC" editable="true" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="300.0" prefWidth="500.0" VBox.vgrow="ALWAYS">
+                           <columns>
+                              <TableColumn fx:id="tcC_Vozidla_ID" prefWidth="24.0" style="-fx-alignment: CENTER;" text="ID" />
+                              <TableColumn fx:id="tcC_Vozidla_Varianta" prefWidth="71.0" style="-fx-alignment: CENTER;" text="Varianta" />
+                              <TableColumn fx:id="tcC_Vozidla_Obsadenost" prefWidth="74.0" style="-fx-alignment: CENTER;" text="Obsadenosť" />
+                              <TableColumn fx:id="tcC_Vozidla_Dvere" minWidth="0.0" prefWidth="115.0" text="Volne dvere">
+                                 <columns>
+                                    <TableColumn fx:id="tcC_Vozidla_Dvere1" prefWidth="29.0" />
+                                    <TableColumn fx:id="tcC_Vozidla_Dvere2" prefWidth="27.0" />
+                                    <TableColumn fx:id="tcC_Vozidla_Dvere3" prefWidth="29.0" />
+                                    <TableColumn fx:id="tcC_Vozidla_Dvere4" prefWidth="29.0" />
+                                 </columns>
+                              </TableColumn>
+                              <TableColumn fx:id="tcC_Vozidla_Cinnost" prefWidth="255.0" text="Činnosť">
+                                 <columns>
+                                    <TableColumn fx:id="tcC_Vozidla_Aktivita" prefWidth="166.0" text="Aktivita" />
+                                    <TableColumn fx:id="tcC_Vozidla_Progress" minWidth="0.0" prefWidth="62.0" />
+                                 </columns>
+                              </TableColumn>
+                           </columns>
+                        </TableView>
+                        <Label text="Zastávky" />
+                        <TableView fx:id="tvZastavkyC" editable="true" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="300.0" prefWidth="500.0">
+                           <columns>
+                              <TableColumn fx:id="tcC_Zastavky_ID" prefWidth="37.0" style="-fx-alignment: CENTER;" text="ID" />
+                              <TableColumn fx:id="tcC_Zastavky_Pocet" prefWidth="75.0" style="-fx-alignment: CENTER;" text="Počet ľudí" />
+                              <TableColumn fx:id="tcC_Zastavky_PocetCelkovo" prefWidth="116.0" style="-fx-alignment: CENTER;" text="Počet ľudí celkovo" />
+                              <TableColumn fx:id="tcC_Zastavky_Vozidla" prefWidth="271.0" style="-fx-alignment: CENTER;" text="Vozidlá na zastávke" />
+                           </columns>
+                        </TableView>
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+            <Separator maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" />
+         </children>
+      </VBox>
+   </content>
+</ScrollPane>
